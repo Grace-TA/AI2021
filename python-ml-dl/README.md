@@ -2,7 +2,7 @@
 
 Python for Machine Learning and Deep Learning
 
-## 摘要小抄
+## 備忘單
 
 ![image](https://user-images.githubusercontent.com/89304181/136233779-3786a2e3-e062-4a0f-8699-0508da20dcdb.png)
 
