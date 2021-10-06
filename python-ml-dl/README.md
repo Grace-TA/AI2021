@@ -1,4 +1,6 @@
-# 用於機器學習和深度學習的 Python (Python for Machine Learning and Deep Learning)
+# 用於機器學習和深度學習的 Python 
+
+Python for Machine Learning and Deep Learning
 
 ## 摘要小抄
 
