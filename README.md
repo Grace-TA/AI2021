@@ -2,6 +2,8 @@
 
 ## AI深度學習與專案實作
 
+* [臺灣首位GitHub設計師現身說法：GitHub就是開發者的作品集](https://www.ithome.com.tw/news/95284)
+
 ## 建立日期: 2021.10.07
 
 [助教: Amazing Grace](https://www.youtube.com/watch?v=HsCp5LG_zNE)
