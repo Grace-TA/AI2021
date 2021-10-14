@@ -11,3 +11,8 @@
 ### 字串的操作練習
 
 ![image](https://user-images.githubusercontent.com/89304181/137237319-f4981c04-86b0-48e8-a162-1da72db9152b.png)
+
+### Slicing: Python 還提供了簡潔的語法來訪問子列表； 這稱為切片
+
+![image](https://user-images.githubusercontent.com/89304181/137243595-c0455322-7045-4a8e-9a02-e06549b81a4d.png)
+
