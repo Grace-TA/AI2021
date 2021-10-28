@@ -1,4 +1,4 @@
-# AI最經典火紅的技術之一: 人臉辨識![image](https://user-images.githubusercontent.com/89304181/139181258-f0c7288e-c12e-4b0e-83e4-46d600251074.png)
+# AI最經典火紅的技術之一: 人臉辨識!
 
 ## Introduction
 
