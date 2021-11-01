@@ -1,4 +1,4 @@
-# img.fill Study
+# img.fill Study: 在圖片上畫一條紫紅色的對角線，寬度為 5 px (0,0在最左上角)
 
 ## Program
 
