@@ -12,3 +12,13 @@
 ## Colab
 
 ![image](https://user-images.githubusercontent.com/89304181/139181336-4cfed414-b43a-4897-b256-8962b535b5f7.png)
+
+## Result
+
+### Output1
+
+![image](https://github.com/Grace-TA/AI2021/blob/main/30_%E6%87%89%E7%94%A8/output1.jpg)
+
+### Output2
+
+![image](https://github.com/Grace-TA/AI2021/blob/main/30_%E6%87%89%E7%94%A8/output2.jpg)
