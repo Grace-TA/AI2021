@@ -1,13 +1,12 @@
-# cv2.line Study
+# cv2.line Study: 在圖片上畫一條紫紅色的對角線，寬度為 5 px (0,0在最左上角)
 
 ## Code
 ````python
 img.fill(20)
-# 在圖片上畫一條紫紅色的對角線，寬度為 5 px (0,0在最左上角)
-# cv2.line(影像, 開始座標, 結束座標, 顏色, 線條寬度)
+# 
 for i in range(0,255,64):
   print('(i, i), (i+64, i+64) at ',i)
-  cv2.line(img, (i, i), (i+10, i+10), (0, 0, 255), 5)
+  cv2.line(img, (i, i), (i+10, i+10), (0, 0, 255), 5) # cv2.line(影像, 開始座標, 結束座標, 顏色, 線條寬度)
   cv2_imshow(img) # 顯示圖片
 ````
 
