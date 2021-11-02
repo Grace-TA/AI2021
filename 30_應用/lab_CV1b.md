@@ -2,6 +2,10 @@
 
 ## Program
 
+````Python
+print('hello AI')
+````
+
 ````python
 
 #Lab:CV1
