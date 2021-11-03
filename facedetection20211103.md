@@ -1,5 +1,7 @@
 # AI最火紅的技術之一: 人臉辨識
 
+## Date: 2021.11.03
+
 ## 實作1: 自行下載二張虛擬人造人臉
 
 ![image](https://user-images.githubusercontent.com/89304181/139999478-c0161304-3de2-4d05-9b14-42b67717ade3.png)
