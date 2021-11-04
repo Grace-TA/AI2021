@@ -60,7 +60,8 @@ Wall time: 298 ms
 
 ![image](https://user-images.githubusercontent.com/89304181/140242371-84654019-9d0d-402c-8596-39538c200cdd.png)
 
-## 圖片裁切存檔, crop(x,y,w,h)
+## 圖片裁切存檔, crop(x,y,w,h), face81.jpg
 
+![image](https://user-images.githubusercontent.com/89304181/140243005-64db1d4d-b236-4001-825f-a7a2da6f65da.png)
 
 
