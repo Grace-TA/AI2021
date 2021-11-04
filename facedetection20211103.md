@@ -40,11 +40,11 @@ Wall time: 298 ms
 
 ![image](https://user-images.githubusercontent.com/89304181/140241865-c32b4d20-84e7-48af-bdf5-97213db6f4cf.png)
 
-## 實作7: 浮雕濾波
+## 實作8: 浮雕濾波
 
 ![image](https://user-images.githubusercontent.com/89304181/140241980-f700943b-d8d8-4f6e-bef3-a4edeaacbb7f.png)
 
-## 實作8: 圖像模糊處理
+## 實作9: 圖像模糊處理
 
 ### MinFilter
 
@@ -54,19 +54,19 @@ Wall time: 298 ms
 
 ![image](https://user-images.githubusercontent.com/89304181/140242174-3bb2d122-6d72-438f-b7de-8e4143f9e8a6.png)
 
-## 實作9: 高斯模糊處理 (radius = 5, radius = 21, 值越大 越模糊)
+## 實作10: 高斯模糊處理 (radius = 5, radius = 21, 值越大 越模糊)
 
 ![image](https://user-images.githubusercontent.com/89304181/140242323-1f9e0fb0-a477-4125-a980-5e5e4a6fe140.png)
 
 ![image](https://user-images.githubusercontent.com/89304181/140242371-84654019-9d0d-402c-8596-39538c200cdd.png)
 
-## 實作10: 圖片裁切 cats.jpg
+## 實作11: 圖片裁切 cats.jpg
 
 ![image](https://user-images.githubusercontent.com/89304181/140243338-857e81c8-78be-459f-b70e-472af5debf3c.png)
 
 > 找到臉的數量= 0
 
-## 實作11: 圖片裁切存檔, crop(x,y,w,h), face81.jpg
+## 實作12: 圖片裁切存檔, crop(x,y,w,h), face81.jpg
 
 ![image](https://user-images.githubusercontent.com/89304181/140243005-64db1d4d-b236-4001-825f-a7a2da6f65da.png)
 
