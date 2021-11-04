@@ -24,4 +24,43 @@
 ![image](https://user-images.githubusercontent.com/89304181/139999741-bb54f94d-c94a-4416-85c7-fbd85d7622d0.png)
 
 
+## 實作6: 執行時間分析與比較 (1:0.25)
+
+### Before
+CPU times: user 1.29 s, sys: 17.3 ms, total: 1.3 s
+Wall time: 2.03 s
+
+### After
+CPU times: user 296 ms, sys: 0 ns, total: 296 ms
+Wall time: 298 ms
+
+![image](https://user-images.githubusercontent.com/89304181/140241777-ff381953-5cc3-4d45-acd7-b70fe1c37acf.png)
+
+## 實作7: 輪廓濾波
+
+![image](https://user-images.githubusercontent.com/89304181/140241865-c32b4d20-84e7-48af-bdf5-97213db6f4cf.png)
+
+## 實作7: 浮雕濾波
+
+![image](https://user-images.githubusercontent.com/89304181/140241980-f700943b-d8d8-4f6e-bef3-a4edeaacbb7f.png)
+
+## 實作8: 圖像模糊處理
+
+### MinFilter
+
+![image](https://user-images.githubusercontent.com/89304181/140242096-bf278855-a21d-40f3-9b99-3e669853c2bb.png)
+
+### MaxFilter
+
+![image](https://user-images.githubusercontent.com/89304181/140242174-3bb2d122-6d72-438f-b7de-8e4143f9e8a6.png)
+
+## 實作8: 高斯模糊處理 (radius = 5, radius = 21, 值越大 越模糊)
+
+![image](https://user-images.githubusercontent.com/89304181/140242323-1f9e0fb0-a477-4125-a980-5e5e4a6fe140.png)
+
+![image](https://user-images.githubusercontent.com/89304181/140242371-84654019-9d0d-402c-8596-39538c200cdd.png)
+
+## 圖片裁切存檔, crop(x,y,w,h)
+
+
 
