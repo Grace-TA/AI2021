@@ -6,7 +6,12 @@ https://github.com/hromi/SMILEsmileD
 
 ## Show Directory with Tree Structure
 
-![image](https://user-images.githubusercontent.com/89304181/140705934-4486de2f-3825-4d48-b170-e521d63701e2.png)
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/140705934-4486de2f-3825-4d48-b170-e521d63701e2.png" 
+      width="50%" height="50%">
+    </div>
+   
 
 ## 建模: CNN with 3 Times Convolution
 
