@@ -9,7 +9,7 @@ https://github.com/hromi/SMILEsmileD
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/140705934-4486de2f-3825-4d48-b170-e521d63701e2.png" 
-      width="50%" height="50%">
+      width="20%" height="20%">
     </div>
    
 
