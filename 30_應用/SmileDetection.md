@@ -67,14 +67,14 @@ model.summary()
 
 # Commented out IPython magic to ensure Python compatibility.
 # #114 Define the path for positive images and negative images
-# %%time
-# # 沒有微笑(負向)圖片數量
-# from imutils import paths #路徑檔案管理
-# neg_images = sorted(list(paths.list_images('SMILEsmileD/SMILEs/negatives/negatives7'))) 
-# print('neg_images QTY:', len(neg_images))
-# # 微笑(正向)圖片數量
-# pos_images = sorted(list(paths.list_images('SMILEsmileD/SMILEs/positives/positives7'))) 
-# print('pos_images QTY:',len(pos_images))
+ %%time
+# 沒有微笑(負向)圖片數量
+from imutils import paths #路徑檔案管理
+neg_images = sorted(list(paths.list_images('SMILEsmileD/SMILEs/negatives/negatives7'))) 
+print('neg_images QTY:', len(neg_images))
+# 微笑(正向)圖片數量
+pos_images = sorted(list(paths.list_images('SMILEsmileD/SMILEs/positives/positives7'))) 
+print('pos_images QTY:',len(pos_images))
 
 #115 How many positive and negative images what we have?
 neg_images = neg_images[:3690]
