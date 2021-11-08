@@ -42,4 +42,35 @@
 
 ## 2. 戴口罩提醒
 
-Undergoing ...
+### 人臉判定與編號 (+ enumerate()) + Face Mask Detection
+
+#### Demo Result
+
+![image](https://user-images.githubusercontent.com/89304181/140679304-9a0cd078-250c-4afe-afb4-dcf91ba38840.png)
+
+#### Code
+
+````python
+from google.colab.patches import cv2_imshow
+import cv2
+image = cv2.imread(pic)
+result = results[0]
+for ii, item in enumerate(result['data']):
+    x1 = item['left']
+    y1 = item['top']
+    x2 = item['right']
+    y2 = item['bottom']
+    kz = item['label']
+    image = cv2.rectangle(image, (x1, y1), (x2, y2), (0, 255, 0), 1)
+    cv2.putText(image, kz+'_'+str(ii), (x1 - 5, y1 - 10), cv2.FONT_HERSHEY_PLAIN, 1.0, (0, 0, 255), 1)
+GrayImage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+draw_1 = cv2.rectangle(image, (x1, y1), (x2, y2), (0, 255, 0), 1)
+cv2_imshow(draw_1) 
+
+````
+
+#### 使用if自動判斷 是否配戴口罩 + 編號 (+ enumerate())
+
+![image](https://user-images.githubusercontent.com/89304181/140679590-645a4cc2-157c-4e80-879f-9fcffc256f0f.png)
+
+
