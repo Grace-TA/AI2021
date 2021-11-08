@@ -8,7 +8,7 @@ https://github.com/hromi/SMILEsmileD
 
 ![image](https://user-images.githubusercontent.com/89304181/140705934-4486de2f-3825-4d48-b170-e521d63701e2.png)
 
-##建模: CNN with 3 Times Convolution
+## 建模: CNN with 3 Times Convolution
 
 ````python
 filters = 32
