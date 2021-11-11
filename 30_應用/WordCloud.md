@@ -21,3 +21,20 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/141223579-325f7e94-d73f-4aee-85c9-ad53f9bd58b9.png)
 
+## Mission 14: 用你自己找的Mask來試試1
+
+![image](https://user-images.githubusercontent.com/89304181/141227988-94a142f3-1d7f-4324-9d28-5620aee69242.png)
+
+## Mission 15: 用你自己找的Mask來試試2
+
+![image](https://user-images.githubusercontent.com/89304181/141228001-5bf99ed0-2c3f-404a-ab79-bdf7c2f91774.png)
+
+## Mission 16: 製作英文版的文字雲
+
+![image](https://user-images.githubusercontent.com/89304181/141228081-745ea80c-9bb2-48d0-bc73-1206b69695ba.png)
+
+![image](https://user-images.githubusercontent.com/89304181/141228095-1af06422-f2cc-417f-8e13-8cd231d0d3e8.png)
+
+
+
+
