@@ -27,13 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/141227988-94a142f3-1d7f-4324-9d28-5620aee69242.png)
 
-## Final Mission: 新聞文字雲 
-
-![image](https://user-images.githubusercontent.com/89304181/141232081-33e76e76-bee7-42c0-9a30-3991253926c4.png)
-
-
-
-
 ## Mission 15: 用你自己找的Mask來試試2
 
 ![image](https://user-images.githubusercontent.com/89304181/141228001-5bf99ed0-2c3f-404a-ab79-bdf7c2f91774.png)
@@ -44,6 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/141228095-1af06422-f2cc-417f-8e13-8cd231d0d3e8.png)
 
+## Final Mission: 新聞文字雲 
 
+![image](https://user-images.githubusercontent.com/89304181/141232081-33e76e76-bee7-42c0-9a30-3991253926c4.png)
 
 
